@@ -1,0 +1,15 @@
+ChangeLog for TestSuiteMay20-1731.jar:
+- Changed tests that should be corrected but haven't been
+ - Mon11TubaTests to detect stockpile is <= 0, instead of == -2
+ - Centurio test fixed in Wed09Oboe so that the centurio complies with what we agreed on in the wiki
+
+- Updated mon13Oboe tests
+- GG tests are now included. Checked, seem to be correct
+- nero fixed
+
+By William Lau
+Tested by William Lau, Clam, MinhLe and BenWONG
+
+- Changed GGAesculapinum Test 6pm 21/5/10
+
+- NOTHING TESTS INVALID ANYTHING

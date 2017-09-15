@@ -1,0 +1,11 @@
+- Create a package called userProgram and put Roma in it
+
+
+Changes:
+- removed addCardToHand (it was no longer in the interface)
+- copied EpochNew.java from TestSuite17-5.jar 
+	- (it is assumed that this is the only change between that jar and 
+	collectionOfTests.jar
+	   
+- removed testOnager -  test is WRONG "game.rigBattleDie(9000)"
+
